@@ -1,4 +1,4 @@
-# Sticks
+# Stick Lengths
 
 ## A Probléma:
 
