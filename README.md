@@ -6,7 +6,7 @@ https://cses.fi/problemset/task/1074
 
 ## Cél:
 
-**Minimalizálni** szeretnénk az összes költésget, vagyis a következő értéket:
+**Minimalizálni** szeretnénk az összes költséget, vagyis a következő értéket:
 
 $$\sum_{i=1}^{n} | (x_i - p) \space | $$
 
