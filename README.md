@@ -31,3 +31,16 @@ $$ O (n) $$
 ## Kategória:
 
 Search & Sorting
+
+## CSES megoldás
+
+
+<details>
+<summary>Megoldás</summary>
+<br>
+
+![Alt text](pics/img.png)
+
+Elsőre :D
+
+</details>
