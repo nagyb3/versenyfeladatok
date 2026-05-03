@@ -41,6 +41,4 @@ Search & Sorting
 
 ![Alt text](pics/img.png)
 
-Elsőre :D
-
 </details>
