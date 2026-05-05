@@ -39,6 +39,4 @@ Search & Sorting
 
 ![Alt text](pics/img_2.png)
 
-Elsőre :D
-
 </details>
