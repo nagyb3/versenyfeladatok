@@ -18,14 +18,12 @@ int main() {
     }
 
     sort(vec.begin(), vec.end());
-
-    int middleValue = n % 2 == 1 ? vec.at(n / 2) : (vec.at(n / 2) + vec.at(n / 2 - 1)) / 2;
+    int median = vec.at(n / 2);
 
     long long sumDiff = 0;
-    for_each(vec.begin(), vec.end(), [&sumDiff, &middleValue](int n) {
-        sumDiff += abs(n - middleValue);
+    for_each(vec.begin(), vec.end(), [&sumDiff, &median](int n) {
+        sumDiff += abs(n - median);
     });
-
     cout << sumDiff << endl;
 
     return 0;

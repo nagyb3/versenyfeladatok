@@ -15,12 +15,10 @@ ahol $$x_i$$ az `i`.-edik rúd hossza eredetileg, illetve `p` a rudak közös c�
 ## Megoldás:
 
 Használjuk a mediánt a közös célhosszként (`p`).
-- Páratlan elemszám esetén : középső elem
-- Páros elemszám esetén: a kettő középső elem átlaga
 
 ## Időkomplexitás:
 
-$$O(n * log n)$$
+$$O(n * log \space n)$$
 
 A rendezés miatt. De léteznek lineáris rendezések is.
 
@@ -39,7 +37,7 @@ Search & Sorting
 <summary>Megoldás</summary>
 <br>
 
-![Alt text](pics/img.png)
+![Alt text](pics/img_2.png)
 
 Elsőre :D
 
