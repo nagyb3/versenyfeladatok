@@ -37,6 +37,12 @@ Search & Sorting
 <summary>Megoldás</summary>
 <br>
 
+c++:
+
 ![Alt text](pics/img_2.png)
+
+haskell:
+
+![Alt text](pics/img_3_hs.png)
 
 </details>
